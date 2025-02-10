@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Android Studio 설정 파일 (중요한 것만 유지)
+.idea/
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/compiler.xml
+!.idea/libraries/
